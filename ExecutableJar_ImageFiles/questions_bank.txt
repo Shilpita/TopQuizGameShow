@@ -1,0 +1,34 @@
+Multiple:Which is highest mountain on earth? :WORLD:Everest:everest.jpg:60:10:K2 Everest Kangchenjunga
+Multiple:Which is largest ocean on earth? :WORLD:Pacific:dead.jpg:60:10:Arctic Pacific Atlantic
+OneWord: Name water body with no life form :WORLD:Dead Sea:dead.jpg:60:10
+OneWord: Name capital of Thailand :WORLD:Bangkok:bangkok.jpg:60:10
+Multiple:Where is this located? :WORLD:Paris:eiffel.jpg:60:10:London Paris LasVegas
+OneWord: Name capital of India :WORLD:New Delhi:india.jpg:60:10
+OneWord: Name national animal of India :WORLD:Tiger:tiger.jpg:60:10
+Multiple:Where is highest number of Tiger recorded? :WORLD:India:india.jpg:60:10:India Bangladesh Kenya
+OneWord: Name country with national bird Peacock :WORLD:India:india.jpg:60:10
+Multiple:Where is highest mountain on earth? :WORLD:Himalayas:everest.jpg:60:10:Himalayas Alps Everest
+OneWord:What does chlorophyll do? :SCIENCE:photosynthesis:photosynthesis.jpg:60:10
+Multiple:What does light year measure?:SCIENCE:distance:light.jpg:60:10:brightness distance power 
+Multiple:What is shown in this picture?:SCIENCE:comet:comet.jpg:60:10:star comet asteroid
+OneWord:Its rotation effects ocean tides?:SCIENCE:Moon:tide.jpg:60:10
+OneWord:What is chemical formula for water? :SCIENCE:H2O:dead.jpg:60:10
+Multiple:What does 300 light years measure?:SCIENCE:distance:light.jpg:60:10:brightness distance power 
+Multiple:One of this is not part of solar system:SCIENCE:comet:comet.jpg:60:10:sun comet planet
+OneWord:Moon's rotation effects ocean _____:SCIENCE:Tide:tide.jpg:60:10
+OneWord:The green of the leaves is due to _____:SCIENCE:chlorophyll:photosynthesis.jpg:60:10
+Multiple:What is this called?:SCIENCE:Constellation:light.jpg:60:10:Constellation Cosmos power 
+OneWord:Name the singer of Hello?:MOVIES:Adele:adele.jpg:60:10
+Multiple:One of these is animation movie:MOVIES:Minions:minion.jpg:60:10:Inception Minions Power 
+Multiple:One of this is NOT Space Science Fiction. Which one?:MOVIES:TwinkleStar:comet.jpg:60:10:StarWars StarTrek TwinkleStar
+OneWord:Name the movie with song 'let it go'?:MOVIES:Frozen:frozen.jpg:60:10
+Multiple:What does light year measure?:SCIENCE:distance:light.jpg:60:10:brightness distance power 
+Multiple:Identify the actress?:MOVIES:Marilyn:actress.jpg:60:10:Julia Meryl Marilyn
+Multiple:One of these is not SuperHero Movies:MOVIES:PacMan:pacman.jpg:60:10:PacMan Ironman Deadpool 
+Multiple:One of this is Space Science Fiction. Which one?:MOVIES:StarWars:comet.jpg:60:10:StarWars StarMan TwinkleStar
+OneWord:Name pixar movie with sloth Sid?:MOVIES:IceAge:frozen.jpg:60:10
+Multiple:Gaurdians of Galaxy has character:MOVIES:Groot:light.jpg:60:10:Batman Groot AustinPower 
+OneWord:Identify this singer?:MOVIES:Adele:adele.jpg:60:10
+Multiple:One of these is animation movie:MOVIES:DespicableMe:minion.jpg:60:10:Zorro M DespicableMe 
+Multiple:One of this is Space Science Fiction. Which one?:MOVIES:StarTrek:comet.jpg:60:10:Bridman StarTrek TwinkleStar
+OneWord:Name OST from Frozen?:MOVIES:Let It Go:frozen.jpg:60:10
